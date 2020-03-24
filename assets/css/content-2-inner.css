@@ -10,10 +10,15 @@ body{
     height: 270px;
     box-shadow: 0 4px 2px -2px gray;
     display: flex;
+    border-right: 1px solid rgb(194, 192, 192);
+    border-radius: 5px;
 }
 .inner-1 .thumb img{
     height: 270px;
     width: 552px;
+    object-fit: cover;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
 }
 .inner-1 .text{
     padding: 5px 15px 10px 15px;

@@ -9,10 +9,16 @@ body{
     width: 266px;
     height: 270px;
     box-shadow: 0 4px 2px -2px gray;
+    border-radius: 5px;
+    border-right: 1px solid rgb(194, 192, 192);
+    border-left: 1px solid rgb(194, 192, 192);
 }
 .inner-3 .thumb img{
     height: 120px;
     width: 266px;
+    object-fit: cover;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 .inner-3 .text{
     padding: 5px 15px 10px 15px;

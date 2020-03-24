@@ -11,10 +11,13 @@ body{
     box-shadow: 0 4px 2px -2px gray;
     display: flex;
     position: relative;
+    border-radius: 5px;
 }
 .inner-4 .thumb img{
     height: 400px;
     width: 209px;
+    object-fit: cover;
+    border-radius: 5px;
 }
 .inner-4 .text{
     padding: 5px 15px 10px 15px;

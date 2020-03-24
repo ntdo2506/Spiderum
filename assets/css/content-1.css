@@ -20,6 +20,9 @@ body{
     text-decoration: none;
     color: #AAA;
 }
+.panel-second .panel-heading a:hover{
+    color:rgb(122, 210, 216) ; 
+}
 .panel-second .panel-heading h3{
     font-size: 18px;
 }
