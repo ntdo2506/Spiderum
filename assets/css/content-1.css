@@ -18,6 +18,10 @@ body{
 }
 .panel-second .panel-heading a{
     text-decoration: none;
+    color: #AAA;
+}
+.panel-second .panel-heading h3{
+    font-size: 18px;
 }
 .panel-second .panel-body{
     display: flex;

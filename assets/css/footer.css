@@ -7,5 +7,32 @@ body{
 }
 .footer{
     width: 1125px;
-    height: 184px;
+    height: 160px;
+    font-size: 11px;
+    padding: 20px 0 0 0;
+    border-top: 1px solid gray;
+}
+.footer .list-link{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.footer .list-link li a {
+    color: #2FB5FA;
+    font-size: 12px;
+    line-height: 18px;
+    display: block;
+    text-decoration: none;
+}
+.footer .list-link li{
+    list-style: none;
+    margin-right: 20px;
+}
+.footer .credit{
+    line-height: 16px;
+    color: #99A3AD;
+    padding: 20px 0 0;
+}
+.footer .credit p{
+    margin: 0 0 5px;
 }

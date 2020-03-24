@@ -19,7 +19,7 @@ body{
 .inner-4 .text{
     padding: 5px 15px 10px 15px;
     position: absolute;
-    top: 230px;
+    top: 210px;
 }
 .inner-4 a{
     text-decoration: none;
@@ -45,8 +45,4 @@ body{
 .inner-4 .text .title a{
     color: white;
 }
-.inner-4 .text .body{
-    display: block;
-    margin-bottom: 100px;
-    color: white;
-}
+

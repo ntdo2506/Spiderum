@@ -5,43 +5,43 @@ body{
     line-height: 1.5385615384;
     color: #34495E;
 }
-.inner-2{
+.inner-3{
     width: 266px;
     height: 270px;
     box-shadow: 0 4px 2px -2px gray;
 }
-.inner-2 .thumb img{
+.inner-3 .thumb img{
     height: 120px;
     width: 266px;
 }
-.inner-2 .text{
+.inner-3 .text{
     padding: 5px 15px 10px 15px;
 }
-.inner-2  a{
+.inner-3  a{
     text-decoration: none;
 }
-.inner-2  .author{
+.inner-3  .author{
     display: flex;
     align-items: center;
     padding: 0;
     margin: 0;
 }
-.inner-2  .author .avatar{
+.inner-3  .author .avatar{
     margin: 0;
 }
-.inner-2  .author .avatar img{
+.inner-3  .author .avatar img{
     width: 36px;
     height: 36px;
     border-radius: 50%;
 }
-.inner-2  .author .username{
+.inner-3  .author .username{
     padding-left: 15px;
     color: rgb(130, 133, 133);
 }
-.inner-2 .text .title a{
+.inner-3 .text .title a{
     color: black;
 }
-.inner-2  .text .body{
+.inner-3  .text .body{
     display: block;
     margin-bottom: 100px;
     color: black;

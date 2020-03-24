@@ -5,10 +5,34 @@ body{
     line-height: 1.5385615384;
     color: #34495E;
 }
-.panel-first .panel-body{
-    padding-bottom: 10px;
-}
-.panel-first .panel-body .feed-banner{
+.event{
     width: 100%;
-    height: auto;
+    height: 260px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.event img{
+    width: 1125px;
+    height: 260px;
+}
+.panel-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.advs{
+    width: 100%;
+    padding-bottom: 19px;
+    display: flex;
+    justify-content: center;
+}
+.advs img{
+    width: 1125px;
+    height: 167px;
+}
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }

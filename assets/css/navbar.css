@@ -5,13 +5,26 @@ body{
     line-height: 1.5385615384;
     color: #34495E;
 }
-#header .header-upper{
-    height: 65px;
-    background: #ffffff;
+#header{
+    height: 105px;
     width: 100%;
+    box-shadow: 0 4px 2px -2px rgba(0,0,0,0.5);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-bottom: 28px;
+}
+#header .header-upper{
+    height: 66px;
+    width: 1125px;
+    background: #ffffff;
     z-index: 600;
     position: relative;
     border-bottom: 1px solid #dbcccc;
+}
+#header .header-down{
+    height: 70px;
+    width: 1125px;
 }
 #header .header-upper .header-logo{
     float: left;
@@ -51,6 +64,7 @@ body{
     width: 100%;
     height: 30px;
     box-sizing: border-box;
+    font-size: 15px;
 }
 #header .header-upper .header-search .submit {
     position: absolute;
@@ -141,9 +155,6 @@ ul {
 }
 #header .main-menu a{
     text-decoration: none;
-}
-#header .menu-inner{
-    box-shadow: 0 4px 2px -2px rgba(0,0,0,0.5);
 }
 #header .main-menu-wrapper{
     height: 40px;
