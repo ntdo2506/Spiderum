@@ -5,10 +5,7 @@ body{
     line-height: 1.5385615384;
     color: #34495E;
 }
-.panel-first .panel-body{
-    padding-bottom: 10px;
-}
-.panel-first .panel-body .feed-banner{
-    width: 100%;
-    height: auto;
+.footer{
+    width: 1125px;
+    height: 184px;
 }

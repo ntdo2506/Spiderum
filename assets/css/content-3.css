@@ -1,0 +1,29 @@
+body{
+    font-size: 14px;
+    font-family: 'Noto Sans',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.5385615384;
+    color: #34495E;
+}
+.panel-four{
+    width: 1125px;
+    height: 473px;
+}
+.panel-four .panel-heading{
+    width: 1125px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.panel-four .panel-heading a{
+    text-decoration: none;
+}
+.panel-four .panel-body{
+    display: flex;
+    padding-top: 7px;
+    border-top: 1px solid gray;
+}
+.panel-four .panel-body .container ~ div{
+    padding-left: 20px;
+}

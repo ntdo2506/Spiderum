@@ -1,0 +1,42 @@
+body{
+    font-size: 14px;
+    font-family: 'Noto Sans',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.5385615384;
+    color: #34495E;
+}
+.panel-second{
+    width: 1125px;
+    height: 633px;
+}
+.panel-second .panel-heading{
+    width: 1125px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.panel-second .panel-heading a{
+    text-decoration: none;
+}
+.panel-second .panel-body{
+    display: flex;
+    padding-top: 7px;
+    border-top: 1px solid gray;
+}
+.panel-second .panel-body .body-left{
+    padding: 10px 0 10px 0;
+}
+.panel-second .panel-body .body-right{
+    display: flex;
+    flex-flow: column;
+    padding: 10px 0 10px 0px;
+}
+.panel-second .panel-body .body-right .up-down{
+    display: flex;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.panel-second .panel-body .body-right .up-down .div-1{
+    padding-right: 20px;
+}
