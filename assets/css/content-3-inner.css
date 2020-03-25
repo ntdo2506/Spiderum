@@ -12,6 +12,7 @@ body{
     display: flex;
     position: relative;
     border-radius: 5px;
+    box-sizing: border-box;
 }
 .inner-4 .thumb img{
     height: 400px;

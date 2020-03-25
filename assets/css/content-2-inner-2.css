@@ -12,6 +12,7 @@ body{
     display: flex;
     border-right: 1px solid rgb(194, 192, 192);
     border-radius: 5px;
+    box-sizing: border-box;
 }
 .inner-2 .thumb img{
     height: 270px;

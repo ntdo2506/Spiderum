@@ -12,10 +12,11 @@ body{
     border-radius: 5px;
     border-right: 1px solid rgb(194, 192, 192);
     border-left: 1px solid rgb(194, 192, 192);
+    box-sizing: border-box;
 }
 .inner-3 .thumb img{
     height: 120px;
-    width: 266px;
+    width: 265px;
     object-fit: cover;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
