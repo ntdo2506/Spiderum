@@ -17,9 +17,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-⋅⋅* HTML
-⋅⋅* CSS
-⋅⋅* Javascript
+* HTML
+* CSS
+* Javascript
 
 ## Versioning
 
@@ -27,7 +27,7 @@ Version 1
 
 ## Authors
 
-⋅⋅* Nguyen Thanh Do
+* Nguyen Thanh Do
 
 ## License
 
